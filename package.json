@@ -6,7 +6,7 @@
   "homepage": "https://sirprogrammer.github.io/website",
   "scripts": {
     "test": "hello",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d mywebsite2"
   },
   "author": "",
   "license": "ISC",
